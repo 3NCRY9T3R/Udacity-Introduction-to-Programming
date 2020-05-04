@@ -1,1 +1,28 @@
-
+.outer{
+  width:302px;
+  border:1px solid lightgray;
+  padding:10px;
+}
+.lower{
+  width:270px;
+  border:1px solid lightgray;
+  padding: 15px;
+  margin-top: 5px;
+}
+.des{
+  font-style:italic;
+}
+span{
+  font-weight: bold;
+}
+li{
+  list-style: none;
+}
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+img{
+  width: 302px;
+  height: 200px;
+}
