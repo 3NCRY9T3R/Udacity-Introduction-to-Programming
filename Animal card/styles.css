@@ -2,6 +2,7 @@
   width:302px;
   border:1px solid lightgray;
   padding:10px;
+  box-shadow: 4px 4px 1px whitesmoke;
 }
 .lower{
   width:270px;
